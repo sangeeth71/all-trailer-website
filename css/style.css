@@ -1,0 +1,12 @@
+.nav-link{
+    color: aliceblue;
+}
+.nav-link:hover{
+    color: gold;
+}
+.btn{
+    width: 200px;
+}
+.btn:hover{
+    background-color: red;
+}
